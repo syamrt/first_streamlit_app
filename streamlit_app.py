@@ -2,8 +2,7 @@ import streamlit
 
 streamlit.title('Indian Healthy Diner');
 
-streamlit.header('Indian Breakfast');
-streamlit.text('Ragi Sangati');
-streamlit.text('Idly');
-streamlit.text('Dosa');
-streamlit.text('Upma');
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
