@@ -1,3 +1,9 @@
 import streamlit
 
-streamlit.title('New Healthy Diner');
+streamlit.title('Indian Healthy Diner');
+
+streamlit.header('Indian Breakfast');
+streamlit.text('Ragi Sangati');
+streamlit.text('Idly');
+streamlit.text('Dosa');
+streamlit.text('Upma');
